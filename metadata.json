@@ -1,0 +1,6 @@
+{
+  "name": "Sab Gaadi Wala - Smart Ride & Driver Fare Platform",
+  "description": "Direct driver discovery and fare calculation platform for CNG cabs, cars, bikes, and auto-rickshaws with transparent per-km rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
